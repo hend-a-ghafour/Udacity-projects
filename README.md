@@ -73,4 +73,4 @@ years for NYC and Chicago.
 - Expand analysis to additional cities or more recent data for evolving usage patterns.
 - Enhance the terminal script's interactivity for detailed queries and customized outputs.
 - Explore correlations between bikeshare usage and external factors such as weather or events.
-- <br><br>
+<br><br>
