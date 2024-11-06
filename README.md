@@ -28,7 +28,7 @@ outcomes.
 - ***Births Attended by Skilled Health Staff:*** Highest in EUR and lowest in AFR. Inconsistencies in data
 affected the ability to determine relationships with other indicators.
 - ***Child Mortality Rate:*** Decreased globally, with AFR having the highest and EUR the lowest rates.
-Maternal Mortality Rate: Showed a global decrease, with AFR experiencing the highest rates and EUR
+- ***Maternal Mortality Rate:*** Showed a global decrease, with AFR experiencing the highest rates and EUR
 the lowest.
 - ***Average Life Expectancy:*** Increased across regions, with EUR having the highest and AFR the lowest.
 - ***Total Health Spending per Person:*** Showed an overall increase, with EUR spending the most and SEAR
